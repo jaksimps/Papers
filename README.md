@@ -1,4 +1,4 @@
-# Papers
+# 📄🧑‍🎓 Papers
 
 This repository contains a collection of academic papers, research projects, and related works that I have completed during my college years. The focus of these papers is primarily on various aspects of cybersecurity, including but not limited to:
 
@@ -10,17 +10,17 @@ This repository contains a collection of academic papers, research projects, and
 - Security policies and best practices
 - Case studies on recent cyber incidents
 
-### 1. **[Attacking RC4](./Reports/AttackingRC4.pdf)**  
+### 1. **[Attacking RC4](./AttackingRC4.pdf)**  
    _This paper explores vulnerabilities in the RC4 encryption algorithm and potential attack vectors._  
    Key Focus: _Cryptography and attack methods on RC4 encryption._  
    Year: _2023._
 
-### 2. **[IVI Hacking](./Reports/IVI_Hacking.pdf)**  
+### 2. **[IVI Hacking](./IVI_Hacking.pdf)**  
    _This paper investigates methods for hacking IVI (In-Vehicle Infotainment) systems and the security implications._  
    Key Focus: _Network security and vulnerabilities in IVI systems._  
    Year: _2024._
 
-### 3. **[NPD Breach](./Reports/NPD_Breach.pdf)**  
+### 3. **[NPD Breach](./NPD_Breach.pdf)**  
    _A case study on the National Public Data breach, examining the vulnerabilities that led to the breach and security lessons learned._  
    Key Focus: _Cybersecurity breach analysis and incident response._  
    Year: _2024._
