@@ -58,15 +58,8 @@ Throughout the papers, some of the key topics I explore include:
 Each paper is housed in its own folder, which typically contains:
 
 - The paper in PDF format.
-- Supporting resources (e.g., datasets, code, etc.).
 - Any relevant slides or presentations created during research.
 
 To navigate, simply explore the subdirectories or use the provided links to read or download individual papers.
 
-## Contributing
 
-While this repository is primarily for showcasing my work, I welcome any suggestions, feedback, or contributions. If you’d like to contribute or propose any changes, please feel free to open an issue or pull request.
-
-## License
-
-This repository is licensed under the [MIT License](./LICENSE), meaning you can freely share and adapt the content, as long as you provide appropriate attribution.
