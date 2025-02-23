@@ -1,4 +1,4 @@
-# Papers on Cybersecurity
+# Papers
 
 This repository contains a collection of academic papers, research projects, and related works that I have completed during my college years. The focus of these papers is primarily on various aspects of cybersecurity, including but not limited to:
 
@@ -10,37 +10,20 @@ This repository contains a collection of academic papers, research projects, and
 - Security policies and best practices
 - Case studies on recent cyber incidents
 
-## Table of Contents
+### 1. **[Attacking RC4](./Reports/AttackingRC4.pdf)**  
+   _This paper explores vulnerabilities in the RC4 encryption algorithm and potential attack vectors._  
+   Key Focus: _Cryptography and attack methods on RC4 encryption._  
+   Year: _2023._
 
-1. [Introduction](#introduction)
-2. [Research Papers](#research-papers)
-3. [Key Topics](#key-topics)
-4. [How to Navigate the Repo](#how-to-navigate-the-repo)
-5. [Contributing](#contributing)
-6. [License](#license)
+### 2. **[IVI Hacking](./Reports/IVI_Hacking.pdf)**  
+   _This paper investigates methods for hacking IVI (In-Vehicle Infotainment) systems and the security implications._  
+   Key Focus: _Network security and vulnerabilities in IVI systems._  
+   Year: _2024._
 
-## Introduction
-
-This repository is a showcase of the work I have done in the field of cybersecurity. It includes in-depth research papers, analyses of cyber threats, and investigations into current security challenges. The goal is to document and share insights from my academic journey and contribute to the ongoing conversation about improving cybersecurity practices and mitigating cyber risks.
-
-## Research Papers
-
-### 1. **[Paper Title 1](./path_to_paper_1)**  
-   _Brief description of the first paper._  
-   Key Focus: _Main cybersecurity topic covered in the paper._  
-   Year: _Year of completion._
-
-### 2. **[Paper Title 2](./path_to_paper_2)**  
-   _Brief description of the second paper._  
-   Key Focus: _Main cybersecurity topic covered in the paper._  
-   Year: _Year of completion._
-
-### 3. **[Paper Title 3](./path_to_paper_3)**  
-   _Brief description of the third paper._  
-   Key Focus: _Main cybersecurity topic covered in the paper._  
-   Year: _Year of completion._
-
-*(Repeat this structure for all papers in the repo.)*
+### 3. **[NPD Breach](./Reports/NPD_Breach.pdf)**  
+   _A case study on the National Public Data breach, examining the vulnerabilities that led to the breach and security lessons learned._  
+   Key Focus: _Cybersecurity breach analysis and incident response._  
+   Year: _2024._
 
 ## Key Topics
 
@@ -52,14 +35,3 @@ Throughout the papers, some of the key topics I explore include:
 - **Cryptography**: Analysis of encryption techniques and their applications.
 - **Threat Detection and Response**: Strategies for identifying and mitigating security breaches.
 - **Security Audits**: Techniques for assessing and improving the security posture of an organization.
-
-## How to Navigate the Repo
-
-Each paper is housed in its own folder, which typically contains:
-
-- The paper in PDF format.
-- Any relevant slides or presentations created during research.
-
-To navigate, simply explore the subdirectories or use the provided links to read or download individual papers.
-
-
